@@ -1,0 +1,54 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+.navbar {
+  border: 1px solid rgb(155, 147, 147);
+  width: 100%;
+  height: 200px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  background-color: lightgray;
+  padding: 7px 25px;
+  border-radius: 5px;
+}
+
+a:hover {
+  color: white;
+  background-color: rgb(52, 49, 49);
+}
+
+a:focus,
+a:active {
+  color: white;
+  background-color: rgb(52, 49, 49);
+}
+
+
+.index {
+  margin: 2rem 1rem;
+}
+
+.pagination {
+  width: 30%;
+  display: flex;
+  margin: 2rem 1rem;
+  justify-content: space-evenly;
+}
+
+
+h1 {
+  position: absolute;
+  top: 100px;
+  left: 3rem;
+}
