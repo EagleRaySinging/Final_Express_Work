@@ -9,7 +9,7 @@ Users can click button to change the interface.
 2. cd 2-3 S6 Final_Express_Work
 3. npm install
 4. npm run start
-5. The web-page works successfully when "express is running on http://localhost:3000" showed on Terminal
+5. The web-page works successfully when "Listening on http://localhost:3000" showed on Terminal
 
 ## Development Tools
 1. Node.js 18.16.0
